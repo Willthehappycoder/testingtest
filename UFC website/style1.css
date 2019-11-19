@@ -1,0 +1,107 @@
+
+body {
+    margin: 0;
+}
+.border {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: ;
+    font-size: 40px;
+}
+
+.picture {
+    overflow: inherit;
+    background-size: cover;
+    background-image: url("paulo.jpg");
+    background-position: 5px 1000px;
+    height: 500px;
+}
+
+.extraalign {
+    text-align: center; 
+}
+    
+
+.center1 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+body {
+    background-color: tan;
+}
+
+.center {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+} 
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'raleway', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    
+}
+
+h3, h2, h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align:
+}
+
+
+p h2{
+    text-align: center;
+    font-size: 20px;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    background-color: darkred;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    box-shadow: 1px 5px 10px black;
+    padding: 10px;
+    
+}
+
+table, td {
+    border: none;
+}
+
+ol, li {
+    list-style-type: none;
+}
+
+.parent.1 {
+    display: flex;
+}
+
+.parent-1 div {
+    border: 5px solid #ccc;
+    padding: 10px;
+}
+
+.item-1 {
+    flex: 2;
+}
+
+.item-2 {
+    flex: 4;
+}

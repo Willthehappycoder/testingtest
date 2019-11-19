@@ -1,0 +1,58 @@
+body {
+    background-color: darkseagreen;
+    color: white;
+}
+@media(min-width:600px) {
+
+.sectionLight div { 
+    background-color: dimgrey;
+    padding: 25px;
+   
+}
+
+.bikeContent {
+   margin:auto;
+    text-align: center;
+    }
+
+.firstImg {
+    border-radius: 50px;
+    }
+    
+.secondSection div{
+    background-color: skyblue;
+    display: flex;
+    justify-content:space-between;
+    }
+.AwesomeBikes {
+    
+    }
+
+.bike2 {
+    border-radius: 5px;
+    padding: 15px;
+
+}
+
+.bike1 {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.titles {
+        display: flex;
+}
+.badass {
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    flex: 1;
+}
+.badass2 {
+    border-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    flex: 1;
+}
+}
